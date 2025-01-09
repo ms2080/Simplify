@@ -26,7 +26,8 @@ A URL shortener system project with analytics of the visit history of URL.
 
   # Generating the short URL :
 
-  ![image](https://github.com/user-attachments/assets/16b72f91-f249-4190-82bd-387bcfefb5c5)
+  ![image](https://github.com/user-attachments/assets/6b903e07-8fe4-4e82-9dcd-0394796f266a)
+
 
   # After Click View Visit Count Button :
 
