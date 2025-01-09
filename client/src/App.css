@@ -1,0 +1,20 @@
+* {
+  background-color: #074799;
+  padding: 0;
+  margin: 0;
+}
+.container {
+  padding-top: 7rem;
+}
+h1,
+h6 {
+  padding: 2rem;
+  color: #ffeb00 !important;
+}
+
+h2 {
+  color: #ffeb00 !important;
+  margin-bottom: 10px !important;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
