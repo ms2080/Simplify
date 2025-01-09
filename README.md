@@ -19,7 +19,7 @@ A URL shortener system project with analytics of the visit history of URL.
 
   ![image](https://github.com/user-attachments/assets/d1b5ab36-1dba-43a2-b7e3-353c545dc897)
 
-  # Validation for entering the URL correctly.
+  # Validation for entering the URL correctly :
 
   ![image](https://github.com/user-attachments/assets/0c58ac6b-24cb-4b6b-bae7-4b9d7f66f4e3)
 
@@ -29,7 +29,7 @@ A URL shortener system project with analytics of the visit history of URL.
   ![image](https://github.com/user-attachments/assets/6b903e07-8fe4-4e82-9dcd-0394796f266a)
 
 
-  # After Click View Visit Count Button :
+  # After Clicking View Visit Count Button :
 
   ![image](https://github.com/user-attachments/assets/d6f97a48-2fc3-4243-a79d-1415b16f986a)
 
